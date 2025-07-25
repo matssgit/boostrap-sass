@@ -1,0 +1,23 @@
+.cover-section {
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)),
+    url("assets/1.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.card-testimonial {
+  max-width: 24rem;
+}
+
+.card-testimonial img {
+  height: 11rem;
+  width: 11rem;
+}
+
+.destinations-sections {
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)),
+    url("assets/2.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 32rem;
+}
