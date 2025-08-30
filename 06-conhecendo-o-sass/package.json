@@ -1,0 +1,17 @@
+{
+  "name": "06-conhecendo-o-sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch ./scss/styles.scss:./scss/styles.css",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.91.0",
+    "vite": "^7.1.3"
+  }
+}
